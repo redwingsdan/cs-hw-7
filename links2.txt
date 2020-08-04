@@ -1,0 +1,14 @@
+sac.com union.org
+sac.com roth.net
+sac.com west.com
+union.org sac.com
+union.org wang.com
+union.org west.com
+union.org truck.com
+roth.net sac.com
+roth.net west.com
+wang.com union.org
+wang.com truck.com
+west.com roth.net
+truck.com union.org
+truck.com wang.com
